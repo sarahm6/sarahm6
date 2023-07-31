@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarah!</h1>
 <h3 align="center">An emerging software engineering professional</h3>
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Software Engineering Professional" width="400" height="300" />
+</p>
 
 - 🌱 I’m currently learning **AWS and Python**
 
