@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS and Python**
 
-- 💬 Ask me about **Javascript, HTML & CSS**
+- 💬 Ask me about **Java, Javascript, HTML & CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
